@@ -1,0 +1,4 @@
+chmod +x ssl.sh
+./ssl.sh <domain-name>
+install the rootCA.crt in your browser or operating system to 
+avoid the security message that shows up in the browser when using self-signed certificates.
